@@ -1,4 +1,4 @@
-# Assimp libraryb installation module
+# Assimp library installation module
 1. Create VM using provided Vagrant file
 2. Set desired Assipm library version in params.pp
 3. Put module directory to /vagrant shared directory
